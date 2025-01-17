@@ -1,1 +1,1 @@
-# Travel-Tale---Project
+**Travel Tale** is a tourism website designed to help users explore the most popular cities in France. It offers detailed information on top attractions, provides route planning to navigate between them, and allows users to book tickets directly to these sites.
